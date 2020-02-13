@@ -1,0 +1,10 @@
+<launch>
+
+  <include file="/home/ahmed/stick_ws/src/amcl/examples/amcl_omni.launch" />
+
+</launch>
+
+
+
+ 
+
